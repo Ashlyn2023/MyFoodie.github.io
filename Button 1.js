@@ -1,4 +1,4 @@
-<!DOCTYPE js>
+
 const btn = document.createElement('button');
 btn.innerText = 'New Button';
 "New Button"
